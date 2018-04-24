@@ -1,15 +1,15 @@
 # mysqlpgsql
 A database migration tool for MySQL and PostgreSQL
 
-FOR COMMAND LINE:__
-  python3 mysql2pgsql.py <mysql-dump-file>__
-  python3 pgsql2mysql.py <pgsql-dump-file>__
+FOR COMMAND LINE:<br/>
+  python3 mysql2pgsql.py <mysql-dump-file><br/>
+  python3 pgsql2mysql.py <pgsql-dump-file><br/>
   
   -- when we run the command , corresponding commands will be generated in the terminal
   
 FOR GUI APP:
-	cd GuiApp/
-	sudo apt-get install python3-tk  //installation of tkinter module
+	cd GuiApp/ <br/>
+	sudo apt-get install python3-tk  //installation of tkinter module <br/>
 	python3 app.py
 	
 	-- we will PgSQL or MySQL using Radio buttons
