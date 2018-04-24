@@ -1,9 +1,9 @@
 # mysqlpgsql
 A database migration tool for MySQL and PostgreSQL
 
-FOR COMMAND LINE:
-  python3 mysql2pgsql.py <mysql-dump-file>
-  python3 pgsql2mysql.py <pgsql-dump-file>
+FOR COMMAND LINE:__
+  python3 mysql2pgsql.py <mysql-dump-file>__
+  python3 pgsql2mysql.py <pgsql-dump-file>__
   
   -- when we run the command , corresponding commands will be generated in the terminal
   
