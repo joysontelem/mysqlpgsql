@@ -12,7 +12,7 @@ FOR GUI APP:
 	sudo apt-get install python3-tk  //installation of tkinter module <br/>
 	python3 app.py
 	
-	-- we will PgSQL or MySQL using Radio buttons
-	-- dump file will be browse with the Browse button
+	-- we will choose PgSQL or MySQL using Radio buttons
+	-- dump file will be browsed with the Browse button
 	-- Clicking Convert button will displayed the corresponding commands in the textarea below.
 	-- the sql commands in textbox can be saved using Save As button.
